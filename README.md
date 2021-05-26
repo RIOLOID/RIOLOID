@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RIOLOID
-- 👀 I’m interested in ReactJS, node.js and DevOps generally
-- 🌱 I’m currently learning about Infrastructure as a Code, Docker, Terraform, etc.
-- 💞️ I’m looking to collaborate on Front-end, Back-end and DevOps related projects
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning about ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Email me at rioloid@gmail.com
 
 <!---
